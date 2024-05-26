@@ -1,4 +1,4 @@
-# Final Guestbook Application Lab
+# Final Guestbook Application Project
 
 This repository contains the materials for a lab on building and deploying a simple Guestbook application, as well as performing autoscaling, rolling updates, and rollbacks.
 
